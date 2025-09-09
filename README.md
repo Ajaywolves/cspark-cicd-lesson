@@ -1,2 +1,2 @@
 # cspark-cicd-lesson
-Clas demo
+Class demo
